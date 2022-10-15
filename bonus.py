@@ -12,7 +12,6 @@ k=0
 for i in range(len(arr)):
     if i==mn+delta:
         k+=1
-print(arr,mn)
 print(k)
 
     
